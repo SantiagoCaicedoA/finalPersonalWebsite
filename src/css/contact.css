@@ -1,0 +1,67 @@
+
+#contactLine{
+    width: 70px;
+    height: 2px !important;
+    border: 0px solid;
+    background-color: white;
+    margin-bottom: 10px !important;
+}
+
+hr{
+    width: 100%;
+    height: 2px !important;
+    border: 0px solid;
+    background-color: #1b242f;
+    margin-bottom: 100px !important;
+}
+
+.containerContact{
+    background: #252934;
+    color: #04c2c9;
+    border: top;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.containerContact h1 {
+    margin-top: 50px !important;
+    color: white;
+}
+.formContainer{
+    margin: auto;
+    display: inline-block;
+    justify-content: column;
+    margin-top: 50px;
+    width: 40%;
+    margin-bottom: 30px;
+}
+
+textarea{
+    width: 100%;
+}
+
+#hidden{
+    display: none;
+}
+
+input{
+    width: 100%;
+}
+
+button{
+    background: #04c2c9 ;
+    border-color: #04c2c9 ;
+    border-radius: 3px;
+    border-style: none;
+    margin-top: 30px ;
+    color: white;
+    padding: 4px 20px;
+    font-weight: bold;
+}
+
+button:hover{
+    color: #e31b6d !important;
+    font-size: 120% !important;
+
+}
+
+
